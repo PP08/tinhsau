@@ -1,0 +1,2 @@
+module TinhsausHelper
+end
